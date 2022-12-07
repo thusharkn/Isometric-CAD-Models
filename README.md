@@ -1,3 +1,3 @@
 # Isometric-CAD-Models
-## ''Assemblies made using Solid Edge 2020''
-Drafted the parts seperately and then aseembled them together. 
+Drafted the parts seperately and then assembled them together. 
+Used Isometric Assembly tool in Solid Edge 2020
